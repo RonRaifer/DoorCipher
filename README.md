@@ -1,12 +1,12 @@
 # DoorCipher
 Door Cipher Encryption Decryption and Iterative Attack (as part of a task in cryptology course from college)
 
-# Screenshots:
+## Screenshots:
 
-## Encryption:
-
-
-## Decryption:
+### Encryption:
 
 
-## Iterative Attack:
+### Decryption:
+
+
+### Iterative Attack:
